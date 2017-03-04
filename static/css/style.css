@@ -808,7 +808,7 @@ a.article-title:hover,
 .article-entry .highlight {
   margin: 0;
   font-size: 14px;
-  background: #23241f;
+  background: #f5f2f0; /* from perl6 css */
   padding: 15px 0;
   overflow: auto;
   color: #fff;
